@@ -70,8 +70,5 @@ This is an educational tool. It only reads URL text. It does not visit URLs, sca
 ## Ethical Use
 Use sample strings only. Do not collect credentials. Do not use this project to deceive anyone or to test websites without permission.
 
-## AI Use
-I used Claude (an AI assistant) to help get started with the code and the documentation. I then ran the program and tests myself, reviewed the code, and edited the project so I can explain how it works.
-
 ## Author
 Sayyad Sarah Yohan, Cyber Security Internship-Batch 1 , EWB Courses
